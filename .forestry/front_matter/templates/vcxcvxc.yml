@@ -1,4 +1,14 @@
 ---
 label: vcxcvxc
 hide_body: false
-fields: []
+fields:
+- name: xcvcxcvb
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: xcvcxcvb
+  description: xvxcvxcv
